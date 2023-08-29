@@ -1,2 +1,2 @@
 # Bootstrap-Project
-Responsive Website Using Boostrap
+Responsive Startup Website Using Boostrap
